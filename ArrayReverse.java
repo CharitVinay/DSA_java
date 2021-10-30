@@ -71,7 +71,7 @@ class ArrayReverse
         ArrayReverse ob = new ArrayReverse();
         ob.reverse(arr, 0, arr.length-1);
 
-        System.out.println("Sorted Array");
+        System.out.println("Sorted Array:");
         printarray(arr);
     }
 }
